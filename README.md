@@ -1,6 +1,6 @@
 # LiquidLauncher
 
-Flatpak packaging for [LiquidLauncher](https://github.com/CCBlueX/LiquidLauncher).
+Flatpak packaging for [LiquidLauncher](https://github.com/CCBlueX/LiquidLauncher), a custom Minecraft launcher for LiquidBounce.
 
 ## Build
 
