@@ -15,7 +15,6 @@ finish-args:
   - --device=all
   - --share=ipc
   - --share=network
-  - --filesystem=~/.minecraft
   - --filesystem=xdg-download:ro
   - --env=LIQUIDLAUNCHER_SKIP_UPDATE=1
 
